@@ -4,6 +4,9 @@ Node.js With Passport Authentication
 
 This is a user login and registration app using Node.js, Express, Passport, Mongoose, EJS and some other packages.
 
+
+The Database Im using is MongoDB Atlas
+https://www.mongodb.com/cloud/atlas
 ### Version: 2.0.0
 
 ### Usage
